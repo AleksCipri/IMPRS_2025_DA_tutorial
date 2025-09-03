@@ -19,4 +19,4 @@ uses real galaxy images from the Sloan Digital Sky Survey (SDSS) and Dark Energy
 The focus is on conceptual understanding and application rather than PyTorch syntax. I've sprinkled questions and directions for further exploration throughout the notebooks; and my hope is that you can do some self-exploration and deep thinking in whatever seems interesting to you and most relevant for your own work.
 
 ## Credit
-[Sneh Pandya](https://snehjp2.github.io) (Northeastern University)
+These tutorials were creadted by [Sneh Pandya](https://snehjp2.github.io) (Northeastern University).

@@ -1,4 +1,4 @@
-![Major challenges for AI applications in Science](major_challenges.png | width=100)
+![Major challenges for AI applications in Science](major_challenges.png | width="50%")
 
 # Domain Adaptation Tutorial
 These are a set of tutorials made for 2025 IMPRS Summer School, in companian with the lecture about Domain Adaptation by [Aleksandra Ciprijanovic](https://www.alexciprijanovic.com). The tutorials can be found under the `tutorials` directory, and the solutions to both can be found under `solutions.` If, by chance, you are struggling to train the models, pre-trained models can be found in `pretrained_models.zip`.

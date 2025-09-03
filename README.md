@@ -1,5 +1,5 @@
 # Domain Adaptation Tutorial
-These are a set of tutorials made for 2025 IAIFI Summer school, in companian with the lecture by Aleksandra Ćiprijanović. The tutorials can be found under the `tutorials` directory, and the solutions to both can be found under `solutions.` If, by chance, you are struggling to train the models, pre-trained models can be found in `pretrained_models.zip`.
+These are a set of tutorials made for 2025 IMPRS Summer School, in companian with the lecture about Domain Adaptation by [Aleksandra Ciprijanovic](https://www.alexciprijanovic.com). The tutorials can be found under the `tutorials` directory, and the solutions to both can be found under `solutions.` If, by chance, you are struggling to train the models, pre-trained models can be found in `pretrained_models.zip`.
 
 ## Setup
 
@@ -17,3 +17,6 @@ uses real galaxy images from the Sloan Digital Sky Survey (SDSS) and Dark Energy
 ## Getting the most out of these
 
 The focus is on conceptual understanding and application rather than PyTorch syntax. I've sprinkled questions and directions for further exploration throughout the notebooks; and my hope is that you can do some self-exploration and deep thinking in whatever seems interesting to you and most relevant for your own work.
+
+## Credit
+[Sneh Pandya](https://snehjp2.github.io) (Northeastern University)

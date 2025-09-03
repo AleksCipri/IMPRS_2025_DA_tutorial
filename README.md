@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="major_challenges.pngg" alt="Major challenges for AI applications in Science" width="100">
+    <img src="major_challenges.png" alt="Major challenges for AI applications in Science" width="100">
 </p>
 
 # Domain Adaptation Tutorial
